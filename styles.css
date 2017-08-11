@@ -1,0 +1,93 @@
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #d0dff2;
+  margin: 0;
+  padding: 40px;
+}
+
+a {
+  color: #1929a0;
+}
+
+.highlighted {
+  background-color: #0d0d0d;
+  color: #66ff33;
+  padding: 2px;
+  font-family: monospace;
+}
+
+.title,
+.subtitle {
+  text-align: center;
+}
+.rounded {
+  border-radius: 50%;
+  width: 200px;
+  margin: 40px auto;
+  display: block;
+}
+#cheese {
+  width: 500px;
+  height: 500px;
+  background-size: contain;
+  background-image: url("images/cheese.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: auto;
+  font-size: 40px;
+  color: #ff0000;
+}
+#puppy {
+  width: 500px;
+  height: 500px;
+  background-size: contain;
+  background-image: url("images/puppy.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: auto;
+  font-size: 40px;
+  color: #ff6600;
+}
+#poop {
+  width: 500px;
+  height: 500px;
+  background-size: contain;
+  background-image: url("images/poop.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: auto;
+  font-size: 40px;
+  color: #ffff00;
+}
+#mouth {
+  width: 500px;
+  height: 500px;
+  background-size: contain;
+  background-image: url("images/mouth.gif");
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: auto;
+  font-size: 40px;
+  color: #00cc00;
+}
+#gum {
+  width: 500px;
+  height: 500px;
+  background-size: contain;
+  background-image: url("images/gum.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: auto;
+  font-size: 40px;
+  color: #0000ff;
+}
+#no {
+  background-color: red;
+  background-size: 50px;
+  font-size: 40px;
+
+}
+#yes {
+  background-color: green;
+  background-size: 50px;
+  font-size: 40px;
